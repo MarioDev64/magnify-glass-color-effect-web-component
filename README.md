@@ -4,6 +4,12 @@ Provides an easy way to have the functionality of a magnify glass on the DOM.
 
 ## Installation
 
+First you need to clone the repository.
+
+```
+git clone https://github.com/MarioDev64/magnify-glass-color-effect-web-component.git
+```
+
 This project is ready to be cloned and use it on other projects. Just need to replace the properties on the web components.
 
 **Magnify Asset**
@@ -19,7 +25,6 @@ This project is ready to be cloned and use it on other projects. Just need to re
 ```
 
 If you want to use it in another project, please follow the External installation chapter.
-
 
 ## Installation on another project
 
